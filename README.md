@@ -1,7 +1,7 @@
 # flutter-E-Sinchai-Application
 <<<<<<< HEAD
 Real World Project
-E-sinchai is the live project  Application for the Farmers for the Sustainabily Utilise the Water Channel For their Farming fields 
+E-sinchai is the live project  Application for farmers
 Project view
 ![image](https://github.com/KanikaUniyal/flutter-E-Sinchai-Application/assets/138552580/fb8d51c1-8828-46c0-afa4-763283cb7d5a)
 ![image](https://github.com/KanikaUniyal/flutter-E-Sinchai-Application/assets/138552580/fe783f0e-4ea2-49c3-86a7-f306c13352cb)
